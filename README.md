@@ -47,4 +47,4 @@ basex -c "CREATE DB dojosearch users.xml"
 ## 📌 Notas
 - Los precios se manejan en euros (€)
 - Campos obligatorios marcados con * en formularios
-- Puerto REST predeterminado: 8984
+- Puerto REST predeterminado: 8080
