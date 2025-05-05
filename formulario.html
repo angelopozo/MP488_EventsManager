@@ -1,0 +1,119 @@
+<!-- 
+    Formulario CRUD para gestión de eventos deportivos.
+    Funciones JavaScript:
+    - agregarPromotor(): Añade campos dinámicos para promotores (variables: div, promotores).
+    - agregarPromotorEditar(): Similar para edición (variables: div, promotores_editar).
+-->
+
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Gestión de Eventos</title>
+</head>
+
+<body>
+    <h2>Insertar Evento</h2>
+    <form action="insertar.php" method="post">
+        ID Evento: <input type="text" name="id" required><br>
+        Nombre: <input type="text" name="nombre" required><br>
+        Fecha (YYYY-MM-DD): <input type="date" name="fecha" required><br>
+        Ciudad: <input type="text" name="ciudad" required><br>
+        País: <input type="text" name="pais" required><br>
+        Patrocinador: <input type="text" name="patrocinador" required><br>
+
+        <h3>Entradas VIP</h3>
+        Precio VIP: <input type="number" name="entrada_vip_precio" required><br>
+        Disponibles VIP: <input type="number" name="entrada_vip_disponibles" required><br>
+
+        <h3>Entradas Normales</h3>
+        Precio Normal: <input type="number" name="entrada_normal_precio" required><br>
+        Disponibles Normal: <input type="number" name="entrada_normal_disponibles" required><br>
+
+        <h3>Promotores (al menos 1)</h3>
+        <div id="promotores">
+            <div class="promotor">
+                ID Promotor: <input type="text" name="promotor_id[]" required><br>
+                Nombre: <input type="text" name="promotor_nombre[]" required><br>
+                Contacto: <input type="email" name="promotor_contacto[]" required><br>
+            </div>
+        </div>
+        <button type="button" onclick="agregarPromotor()">+ Añadir Promotor</button>
+
+        <input type="submit" value="Insertar">
+    </form>
+
+    <h2>Borrar Evento</h2>
+    <form action="borrar.php" method="post">
+        ID a borrar: <input type="text" name="id" required><br>
+        <input type="submit" value="Borrar">
+    </form>
+
+    <h2>Buscar Evento</h2>
+    <form action="filtrar.php" method="get">
+        ID a buscar: <input type="text" name="id" required><br>
+        <input type="submit" value="Buscar">
+    </form>
+
+    <h2>Editar Evento</h2>
+    <form action="actualizar.php" method="post">
+        ID del evento a editar: <input type="text" name="id" required><br>
+
+        Nuevo Nombre: <input type="text" name="nombre" required><br>
+        Nueva Fecha (YYYY-MM-DD): <input type="date" name="fecha" required><br>
+        Nueva Ciudad: <input type="text" name="ciudad" required><br>
+        Nuevo País: <input type="text" name="pais" required><br>
+        Nuevo Patrocinador: <input type="text" name="patrocinador" required><br>
+
+        <h3>Nuevas Entradas VIP</h3>
+        Nuevo Precio VIP: <input type="number" name="entrada_vip_precio" required><br>
+        Nuevas Disponibles VIP: <input type="number" name="entrada_vip_disponibles" required><br>
+
+        <h3>Nuevas Entradas Normales</h3>
+        Nuevo Precio Normal: <input type="number" name="entrada_normal_precio" required><br>
+        Nuevas Disponibles Normal: <input type="number" name="entrada_normal_disponibles" required><br>
+
+        <h3>Nuevos Promotores (al menos 1)</h3>
+        <div id="promotores_editar">
+            <div class="promotor">
+                ID Promotor: <input type="text" name="promotor_id[]" required><br>
+                Nombre: <input type="text" name="promotor_nombre[]" required><br>
+                Contacto: <input type="email" name="promotor_contacto[]" required><br>
+            </div>
+        </div>
+        <button type="button" onclick="agregarPromotorEditar()">+ Añadir Promotor</button>
+
+        <input type="submit" value="Actualizar">
+    </form>
+
+    <script>
+        function agregarPromotorEditar() {
+            const div = document.createElement('div');
+            div.className = 'promotor';
+            div.innerHTML = `
+            <hr>
+            ID Promotor: <input type="text" name="promotor_id[]" required><br>
+            Nombre: <input type="text" name="promotor_nombre[]" required><br>
+            Contacto: <input type="email" name="promotor_contacto[]" required><br>
+        `;
+            document.getElementById('promotores_editar').appendChild(div);
+        }
+    </script>
+
+    <script>
+        function agregarPromotor() {
+            const div = document.createElement('div');
+            div.className = 'promotor';
+            div.innerHTML = `
+                <hr>
+                ID Promotor: <input type="text" name="promotor_id[]" required><br>
+                Nombre: <input type="text" name="promotor_nombre[]" required><br>
+                Contacto: <input type="email" name="promotor_contacto[]" required><br>
+            `;
+            document.getElementById('promotores').appendChild(div);
+        }
+    </script>
+</body>
+
+</html>
