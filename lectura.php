@@ -8,6 +8,18 @@
     - $xml: Objeto SimpleXML usado para recorrer los eventos y mostrarlos en HTML
 */
 
+echo '
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gestor de Eventos</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="container">';
+
 require_once 'BaseXClient/Query.php';
 require_once 'BaseXClient/Session.php';
 require_once 'BaseXClient/BaseXException.php';
@@ -34,7 +46,7 @@ try {
 
     if ($xml && $xml->count() > 0) {
         foreach ($xml->Evento as $evento) {
-            echo "<div style='border:1px solid #ccc; padding:15px; margin:10px;'>";
+            echo "<div class='event-card'>";
             echo "<h2>{$evento->Nombre}</h2>";
             echo "<p><strong>ID:</strong> {$evento['id']}</p>";
             echo "<p><strong>Fecha:</strong> {$evento->Fecha}</p>";
@@ -69,3 +81,4 @@ try {
 } finally {
     if (isset($session)) $session->close();
 }
+echo '</div></body></html>';

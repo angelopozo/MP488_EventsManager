@@ -7,6 +7,19 @@
     - replace node: Consulta XQuery para reemplazo
 */
 
+echo '
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gestor de Eventos</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="container">';
+
+
 require_once 'BaseXClient/Query.php';
 require_once 'BaseXClient/Session.php';
 require_once 'BaseXClient/BaseXException.php';
@@ -105,3 +118,4 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 } else {
     die("Método no permitido");
 }
+echo '</div></body></html>';

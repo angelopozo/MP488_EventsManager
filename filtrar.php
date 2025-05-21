@@ -7,6 +7,18 @@
     - $result: Resultado de la consulta XQuery
 */
 
+echo '
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gestor de Eventos</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="container">';
+
 require_once 'BaseXClient/Query.php';
 require_once 'BaseXClient/Session.php';
 require_once 'BaseXClient/BaseXException.php';
@@ -43,15 +55,15 @@ try {
         echo "<h3>Entradas</h3>";
         foreach ($xml->Entradas->Entrada as $entrada) {
             echo "<p>Tipo: {$entrada['id']} | 
-                  Precio: {$entrada->Precio} | 
-                  Disponibles: {$entrada->Disponibles}</p>";
+                Precio: {$entrada->Precio} | 
+                Disponibles: {$entrada->Disponibles}</p>";
         }
 
         echo "<h3>Promotores</h3>";
         foreach ($xml->Promotores->Promotor as $promotor) {
             echo "<p>ID: {$promotor['id']} | 
-                  Nombre: {$promotor->Nombre} | 
-                  Contacto: {$promotor->Contacto}</p>";
+                Nombre: {$promotor->Nombre} | 
+                Contacto: {$promotor->Contacto}</p>";
         }
     } else {
         echo "Evento no encontrado";
@@ -61,3 +73,4 @@ try {
 } finally {
     if (isset($session)) $session->close();
 }
+echo '</div></body></html>';
