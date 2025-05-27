@@ -1,0 +1,1023 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ingresos>
+    <ingreso tipo="Ventas">
+        <fecha>2023-12-07</fecha>
+        <monto>976.99</monto>
+        <descripcion>Comisión evento especial - Campeonato Sur</descripcion>
+    </ingreso>
+    <ingreso tipo="Marketplace">
+        <fecha>2023-01-05</fecha>
+        <monto>1195.87</monto>
+        <descripcion>Comisión por alquiler de tatami</descripcion>
+    </ingreso>
+    <ingreso tipo="Suscripción">
+        <fecha>2023-10-14</fecha>
+        <monto>1447.64</monto>
+        <descripcion>Suscripción Premium (Kenpo Masters)</descripcion>
+    </ingreso>
+    <ingreso tipo="Suscripción">
+        <fecha>2023-09-09</fecha>
+        <monto>1296.24</monto>
+        <descripcion>Suscripción Avanzada (Kenpo Masters)</descripcion>
+    </ingreso>
+    <ingreso tipo="Ventas">
+        <fecha>2023-04-19</fecha>
+        <monto>564.06</monto>
+        <descripcion>Comisión por entradas - Torneo de Verano</descripcion>
+    </ingreso>
+    <ingreso tipo="Ventas">
+        <fecha>2023-03-15</fecha>
+        <monto>533.70</monto>
+        <descripcion>Comisión evento especial - Campeonato Nacional</descripcion>
+    </ingreso>
+    <ingreso tipo="Publicidad">
+        <fecha>2023-11-05</fecha>
+        <monto>494.66</monto>
+        <descripcion>Campaña Facebook - Desafío Samurai</descripcion>
+    </ingreso>
+    <ingreso tipo="Ventas">
+        <fecha>2023-11-26</fecha>
+        <monto>1264.76</monto>
+        <descripcion>Comisión por entradas - Copa Invierno</descripcion>
+    </ingreso>
+    <ingreso tipo="Ventas">
+        <fecha>2023-04-05</fecha>
+        <monto>1156.08</monto>
+        <descripcion>Comisión por entradas - Copa Primavera</descripcion>
+    </ingreso>
+    <ingreso tipo="Publicidad">
+        <fecha>2023-03-24</fecha>
+        <monto>1378.12</monto>
+        <descripcion>Anuncio destacado - Torneo de Verano</descripcion>
+    </ingreso>
+    <ingreso tipo="Suscripción">
+        <fecha>2023-08-02</fecha>
+        <monto>1339.35</monto>
+        <descripcion>Plan Profesional (Club Karateka)</descripcion>
+    </ingreso>
+    <ingreso tipo="Publicidad">
+        <fecha>2023-10-29</fecha>
+        <monto>483.82</monto>
+        <descripcion>Campaña Facebook - Festival de Katas</descripcion>
+    </ingreso>
+    <ingreso tipo="Marketplace">
+        <fecha>2023-10-29</fecha>
+        <monto>358.17</monto>
+        <descripcion>Venta de equipamiento (DojoSport)</descripcion>
+    </ingreso>
+    <ingreso tipo="Publicidad">
+        <fecha>2023-02-08</fecha>
+        <monto>306.21</monto>
+        <descripcion>Banner destacado - Campeonato Nacional</descripcion>
+    </ingreso>
+    <ingreso tipo="Ventas">
+        <fecha>2023-05-12</fecha>
+        <monto>445.24</monto>
+        <descripcion>Comisión evento especial - Festival de Katas</descripcion>
+    </ingreso>
+    <ingreso tipo="Suscripción">
+        <fecha>2023-12-22</fecha>
+        <monto>396.04</monto>
+        <descripcion>Suscripción Básica (Club Karateka)</descripcion>
+    </ingreso>
+    <ingreso tipo="Publicidad">
+        <fecha>2023-09-11</fecha>
+        <monto>804.31</monto>
+        <descripcion>Banner destacado - Campeonato Sur</descripcion>
+    </ingreso>
+    <ingreso tipo="Publicidad">
+        <fecha>2023-01-09</fecha>
+        <monto>407.94</monto>
+        <descripcion>Anuncio destacado - Copa Primavera</descripcion>
+    </ingreso>
+    <ingreso tipo="Publicidad">
+        <fecha>2023-11-28</fecha>
+        <monto>927.52</monto>
+        <descripcion>Banner destacado - Desafío Samurai</descripcion>
+    </ingreso>
+    <ingreso tipo="Suscripción">
+        <fecha>2023-05-31</fecha>
+        <monto>955.89</monto>
+        <descripcion>Suscripción Avanzada (Club Karateka)</descripcion>
+    </ingreso>
+    <ingreso tipo="Suscripción">
+        <fecha>2023-01-13</fecha>
+        <monto>1289.30</monto>
+        <descripcion>Suscripción Básica (Escuela Bushido)</descripcion>
+    </ingreso>
+    <ingreso tipo="Suscripción">
+        <fecha>2023-09-27</fecha>
+        <monto>1327.69</monto>
+        <descripcion>Suscripción Premium (Kenpo Masters)</descripcion>
+    </ingreso>
+    <ingreso tipo="Ventas">
+        <fecha>2023-12-01</fecha>
+        <monto>1208.42</monto>
+        <descripcion>Entradas vendidas - Torneo de Verano</descripcion>
+    </ingreso>
+    <ingreso tipo="Ventas">
+        <fecha>2023-03-03</fecha>
+        <monto>917.02</monto>
+        <descripcion>Entradas vendidas - Open Martial Arts</descripcion>
+    </ingreso>
+    <ingreso tipo="Suscripción">
+        <fecha>2023-11-07</fecha>
+        <monto>559.45</monto>
+        <descripcion>Suscripción Avanzada (Dojo X)</descripcion>
+    </ingreso>
+    <ingreso tipo="Suscripción">
+        <fecha>2023-05-09</fecha>
+        <monto>625.72</monto>
+        <descripcion>Plan Profesional (Dojo X)</descripcion>
+    </ingreso>
+    <ingreso tipo="Marketplace">
+        <fecha>2023-03-29</fecha>
+        <monto>454.05</monto>
+        <descripcion>Venta de uniformes (DojoSport)</descripcion>
+    </ingreso>
+    <ingreso tipo="Publicidad">
+        <fecha>2023-03-31</fecha>
+        <monto>900.71</monto>
+        <descripcion>Campaña Facebook - Campeonato Nacional</descripcion>
+    </ingreso>
+    <ingreso tipo="Suscripción">
+        <fecha>2023-02-22</fecha>
+        <monto>743.57</monto>
+        <descripcion>Suscripción Avanzada (Dojo X)</descripcion>
+    </ingreso>
+    <ingreso tipo="Publicidad">
+        <fecha>2023-09-27</fecha>
+        <monto>764.61</monto>
+        <descripcion>Campaña Facebook - Torneo de Verano</descripcion>
+    </ingreso>
+    <ingreso tipo="Ventas">
+        <fecha>2023-07-06</fecha>
+        <monto>1161.23</monto>
+        <descripcion>Comisión evento especial - Desafío Samurai</descripcion>
+    </ingreso>
+    <ingreso tipo="Marketplace">
+        <fecha>2023-06-26</fecha>
+        <monto>801.88</monto>
+        <descripcion>Comisión por alquiler de tatami</descripcion>
+    </ingreso>
+    <ingreso tipo="Publicidad">
+        <fecha>2023-03-16</fecha>
+        <monto>1020.70</monto>
+        <descripcion>Anuncio destacado - Desafío Samurai</descripcion>
+    </ingreso>
+    <ingreso tipo="Suscripción">
+        <fecha>2023-03-26</fecha>
+        <monto>301.60</monto>
+        <descripcion>Suscripción Premium (Club Karateka)</descripcion>
+    </ingreso>
+    <ingreso tipo="Marketplace">
+        <fecha>2023-11-14</fecha>
+        <monto>746.21</monto>
+        <descripcion>Comisión por alquiler de tatami</descripcion>
+    </ingreso>
+    <ingreso tipo="Suscripción">
+        <fecha>2023-03-13</fecha>
+        <monto>547.65</monto>
+        <descripcion>Plan Profesional (Escuela Bushido)</descripcion>
+    </ingreso>
+    <ingreso tipo="Marketplace">
+        <fecha>2023-04-14</fecha>
+        <monto>507.21</monto>
+        <descripcion>Comisión por alquiler de tatami</descripcion>
+    </ingreso>
+    <ingreso tipo="Publicidad">
+        <fecha>2023-11-04</fecha>
+        <monto>1364.28</monto>
+        <descripcion>Anuncio destacado - Liga Regional</descripcion>
+    </ingreso>
+    <ingreso tipo="Suscripción">
+        <fecha>2023-12-02</fecha>
+        <monto>1199.28</monto>
+        <descripcion>Suscripción Básica (Dojo X)</descripcion>
+    </ingreso>
+    <ingreso tipo="Suscripción">
+        <fecha>2023-02-02</fecha>
+        <monto>786.30</monto>
+        <descripcion>Plan Profesional (Kenpo Masters)</descripcion>
+    </ingreso>
+    <ingreso tipo="Ventas">
+        <fecha>2023-06-23</fecha>
+        <monto>558.59</monto>
+        <descripcion>Comisión por entradas - Torneo de Verano</descripcion>
+    </ingreso>
+    <ingreso tipo="Suscripción">
+        <fecha>2023-03-20</fecha>
+        <monto>540.02</monto>
+        <descripcion>Suscripción Premium (Dojo X)</descripcion>
+    </ingreso>
+    <ingreso tipo="Suscripción">
+        <fecha>2023-02-01</fecha>
+        <monto>351.61</monto>
+        <descripcion>Suscripción Avanzada (Club Karateka)</descripcion>
+    </ingreso>
+    <ingreso tipo="Marketplace">
+        <fecha>2023-05-11</fecha>
+        <monto>629.59</monto>
+        <descripcion>Venta de equipamiento (MartialStore)</descripcion>
+    </ingreso>
+    <ingreso tipo="Suscripción">
+        <fecha>2023-10-21</fecha>
+        <monto>426.30</monto>
+        <descripcion>Suscripción Premium (Dojo X)</descripcion>
+    </ingreso>
+    <ingreso tipo="Suscripción">
+        <fecha>2023-12-22</fecha>
+        <monto>1201.45</monto>
+        <descripcion>Suscripción Avanzada (JiuJitsu Elite)</descripcion>
+    </ingreso>
+    <ingreso tipo="Suscripción">
+        <fecha>2023-10-17</fecha>
+        <monto>817.74</monto>
+        <descripcion>Suscripción Premium (JiuJitsu Elite)</descripcion>
+    </ingreso>
+    <ingreso tipo="Publicidad">
+        <fecha>2023-05-24</fecha>
+        <monto>947.92</monto>
+        <descripcion>Banner destacado - Copa Primavera</descripcion>
+    </ingreso>
+    <ingreso tipo="Suscripción">
+        <fecha>2023-06-26</fecha>
+        <monto>1393.41</monto>
+        <descripcion>Suscripción Avanzada (JiuJitsu Elite)</descripcion>
+    </ingreso>
+    <ingreso tipo="Marketplace">
+        <fecha>2023-06-24</fecha>
+        <monto>536.61</monto>
+        <descripcion>Venta de equipamiento (DojoPro)</descripcion>
+    </ingreso>
+    <ingreso tipo="Ventas">
+        <fecha>2023-04-24</fecha>
+        <monto>303.86</monto>
+        <descripcion>Comisión evento especial - Torneo Infantil</descripcion>
+    </ingreso>
+    <ingreso tipo="Suscripción">
+        <fecha>2023-09-19</fecha>
+        <monto>452.05</monto>
+        <descripcion>Suscripción Básica (JiuJitsu Elite)</descripcion>
+    </ingreso>
+    <ingreso tipo="Publicidad">
+        <fecha>2023-09-28</fecha>
+        <monto>410.19</monto>
+        <descripcion>Campaña Facebook - Torneo de Verano</descripcion>
+    </ingreso>
+    <ingreso tipo="Suscripción">
+        <fecha>2023-01-20</fecha>
+        <monto>341.20</monto>
+        <descripcion>Suscripción Premium (Escuela Bushido)</descripcion>
+    </ingreso>
+    <ingreso tipo="Publicidad">
+        <fecha>2023-12-26</fecha>
+        <monto>882.67</monto>
+        <descripcion>Anuncio destacado - Campeonato Sur</descripcion>
+    </ingreso>
+    <ingreso tipo="Ventas">
+        <fecha>2023-08-15</fecha>
+        <monto>264.27</monto>
+        <descripcion>Comisión por entradas - Campeonato Sur</descripcion>
+    </ingreso>
+    <ingreso tipo="Suscripción">
+        <fecha>2023-04-12</fecha>
+        <monto>521.54</monto>
+        <descripcion>Suscripción Básica (Dojo X)</descripcion>
+    </ingreso>
+    <ingreso tipo="Ventas">
+        <fecha>2023-09-01</fecha>
+        <monto>615.39</monto>
+        <descripcion>Comisión evento especial - Torneo de Verano</descripcion>
+    </ingreso>
+    <ingreso tipo="Suscripción">
+        <fecha>2023-05-24</fecha>
+        <monto>1136.05</monto>
+        <descripcion>Suscripción Avanzada (Escuela Bushido)</descripcion>
+    </ingreso>
+    <ingreso tipo="Marketplace">
+        <fecha>2023-07-01</fecha>
+        <monto>1338.72</monto>
+        <descripcion>Comisión por alquiler de tatami</descripcion>
+    </ingreso>
+    <ingreso tipo="Publicidad">
+        <fecha>2023-04-25</fecha>
+        <monto>563.55</monto>
+        <descripcion>Anuncio destacado - Torneo Infantil</descripcion>
+    </ingreso>
+    <ingreso tipo="Marketplace">
+        <fecha>2023-03-19</fecha>
+        <monto>214.40</monto>
+        <descripcion>Comisión por alquiler de tatami</descripcion>
+    </ingreso>
+    <ingreso tipo="Marketplace">
+        <fecha>2023-03-29</fecha>
+        <monto>1216.61</monto>
+        <descripcion>Comisión por alquiler de tatami</descripcion>
+    </ingreso>
+    <ingreso tipo="Suscripción">
+        <fecha>2023-06-10</fecha>
+        <monto>601.08</monto>
+        <descripcion>Suscripción Avanzada (Club Karateka)</descripcion>
+    </ingreso>
+    <ingreso tipo="Marketplace">
+        <fecha>2023-12-02</fecha>
+        <monto>1202.22</monto>
+        <descripcion>Venta de uniformes (KarateShop)</descripcion>
+    </ingreso>
+    <ingreso tipo="Marketplace">
+        <fecha>2023-06-20</fecha>
+        <monto>1001.18</monto>
+        <descripcion>Venta de uniformes (DojoPro)</descripcion>
+    </ingreso>
+    <ingreso tipo="Suscripción">
+        <fecha>2023-05-09</fecha>
+        <monto>375.44</monto>
+        <descripcion>Suscripción Premium (Dojo X)</descripcion>
+    </ingreso>
+    <ingreso tipo="Ventas">
+        <fecha>2023-06-12</fecha>
+        <monto>654.70</monto>
+        <descripcion>Comisión por entradas - Torneo de Verano</descripcion>
+    </ingreso>
+    <ingreso tipo="Suscripción">
+        <fecha>2023-11-29</fecha>
+        <monto>722.63</monto>
+        <descripcion>Suscripción Avanzada (Kenpo Masters)</descripcion>
+    </ingreso>
+    <ingreso tipo="Ventas">
+        <fecha>2023-01-04</fecha>
+        <monto>850.19</monto>
+        <descripcion>Comisión evento especial - Campeonato Nacional</descripcion>
+    </ingreso>
+    <ingreso tipo="Publicidad">
+        <fecha>2023-11-02</fecha>
+        <monto>255.57</monto>
+        <descripcion>Campaña Facebook - Desafío Samurai</descripcion>
+    </ingreso>
+    <ingreso tipo="Publicidad">
+        <fecha>2023-03-04</fecha>
+        <monto>649.19</monto>
+        <descripcion>Anuncio destacado - Torneo Infantil</descripcion>
+    </ingreso>
+    <ingreso tipo="Publicidad">
+        <fecha>2023-12-14</fecha>
+        <monto>768.15</monto>
+        <descripcion>Banner destacado - Open Martial Arts</descripcion>
+    </ingreso>
+    <ingreso tipo="Publicidad">
+        <fecha>2023-03-30</fecha>
+        <monto>414.48</monto>
+        <descripcion>Banner destacado - Copa Primavera</descripcion>
+    </ingreso>
+    <ingreso tipo="Publicidad">
+        <fecha>2023-01-13</fecha>
+        <monto>854.95</monto>
+        <descripcion>Banner destacado - Torneo de Verano</descripcion>
+    </ingreso>
+    <ingreso tipo="Marketplace">
+        <fecha>2023-02-05</fecha>
+        <monto>1133.50</monto>
+        <descripcion>Venta de uniformes (DojoPro)</descripcion>
+    </ingreso>
+    <ingreso tipo="Ventas">
+        <fecha>2023-12-02</fecha>
+        <monto>659.09</monto>
+        <descripcion>Comisión por entradas - Copa Invierno</descripcion>
+    </ingreso>
+    <ingreso tipo="Publicidad">
+        <fecha>2023-06-25</fecha>
+        <monto>932.56</monto>
+        <descripcion>Anuncio destacado - Torneo de Verano</descripcion>
+    </ingreso>
+    <ingreso tipo="Marketplace">
+        <fecha>2023-06-24</fecha>
+        <monto>359.24</monto>
+        <descripcion>Comisión por alquiler de tatami</descripcion>
+    </ingreso>
+    <ingreso tipo="Marketplace">
+        <fecha>2023-11-30</fecha>
+        <monto>474.83</monto>
+        <descripcion>Comisión por alquiler de tatami</descripcion>
+    </ingreso>
+    <ingreso tipo="Marketplace">
+        <fecha>2023-10-08</fecha>
+        <monto>1268.55</monto>
+        <descripcion>Venta de equipamiento (MartialStore)</descripcion>
+    </ingreso>
+    <ingreso tipo="Marketplace">
+        <fecha>2023-06-05</fecha>
+        <monto>329.59</monto>
+        <descripcion>Comisión por alquiler de tatami</descripcion>
+    </ingreso>
+    <ingreso tipo="Marketplace">
+        <fecha>2023-05-15</fecha>
+        <monto>1289.59</monto>
+        <descripcion>Venta de equipamiento (DojoSport)</descripcion>
+    </ingreso>
+    <ingreso tipo="Ventas">
+        <fecha>2023-11-02</fecha>
+        <monto>1187.39</monto>
+        <descripcion>Comisión evento especial - Liga Regional</descripcion>
+    </ingreso>
+    <ingreso tipo="Ventas">
+        <fecha>2023-07-10</fecha>
+        <monto>771.47</monto>
+        <descripcion>Entradas vendidas - Open Martial Arts</descripcion>
+    </ingreso>
+    <ingreso tipo="Ventas">
+        <fecha>2023-09-03</fecha>
+        <monto>1106.65</monto>
+        <descripcion>Comisión evento especial - Liga Regional</descripcion>
+    </ingreso>
+    <ingreso tipo="Publicidad">
+        <fecha>2023-08-24</fecha>
+        <monto>569.28</monto>
+        <descripcion>Anuncio destacado - Liga Regional</descripcion>
+    </ingreso>
+    <ingreso tipo="Publicidad">
+        <fecha>2023-08-11</fecha>
+        <monto>823.18</monto>
+        <descripcion>Anuncio destacado - Campeonato Sur</descripcion>
+    </ingreso>
+    <ingreso tipo="Marketplace">
+        <fecha>2023-12-11</fecha>
+        <monto>1138.69</monto>
+        <descripcion>Venta de uniformes (KarateShop)</descripcion>
+    </ingreso>
+    <ingreso tipo="Suscripción">
+        <fecha>2023-04-12</fecha>
+        <monto>183.61</monto>
+        <descripcion>Suscripción Básica (Dojo X)</descripcion>
+    </ingreso>
+    <ingreso tipo="Suscripción">
+        <fecha>2023-07-24</fecha>
+        <monto>374.80</monto>
+        <descripcion>Suscripción Premium (JiuJitsu Elite)</descripcion>
+    </ingreso>
+    <ingreso tipo="Suscripción">
+        <fecha>2023-01-28</fecha>
+        <monto>757.68</monto>
+        <descripcion>Suscripción Básica (Escuela Bushido)</descripcion>
+    </ingreso>
+    <ingreso tipo="Publicidad">
+        <fecha>2023-12-14</fecha>
+        <monto>701.93</monto>
+        <descripcion>Anuncio destacado - Desafío Samurai</descripcion>
+    </ingreso>
+    <ingreso tipo="Ventas">
+        <fecha>2023-08-10</fecha>
+        <monto>1097.50</monto>
+        <descripcion>Entradas vendidas - Copa Primavera</descripcion>
+    </ingreso>
+    <ingreso tipo="Ventas">
+        <fecha>2023-12-11</fecha>
+        <monto>1127.75</monto>
+        <descripcion>Entradas vendidas - Campeonato Sur</descripcion>
+    </ingreso>
+    <ingreso tipo="Marketplace">
+        <fecha>2023-03-18</fecha>
+        <monto>350.40</monto>
+        <descripcion>Venta de uniformes (KarateShop)</descripcion>
+    </ingreso>
+    <ingreso tipo="Suscripción">
+        <fecha>2023-07-15</fecha>
+        <monto>1091.24</monto>
+        <descripcion>Suscripción Premium (Kenpo Masters)</descripcion>
+    </ingreso>
+    <ingreso tipo="Ventas">
+        <fecha>2023-10-24</fecha>
+        <monto>374.86</monto>
+        <descripcion>Entradas vendidas - Open Martial Arts</descripcion>
+    </ingreso>
+    <ingreso tipo="Ventas">
+        <fecha>2023-08-08</fecha>
+        <monto>237.22</monto>
+        <descripcion>Entradas vendidas - Torneo Infantil</descripcion>
+    </ingreso>
+    <ingreso tipo="Marketplace">
+        <fecha>2023-02-11</fecha>
+        <monto>1336.58</monto>
+        <descripcion>Venta de uniformes (KarateShop)</descripcion>
+    </ingreso>
+    <ingreso tipo="Ventas">
+        <fecha>2023-08-23</fecha>
+        <monto>1367.65</monto>
+        <descripcion>Comisión por entradas - Festival de Katas</descripcion>
+    </ingreso>
+    <ingreso tipo="Ventas">
+        <fecha>2023-01-10</fecha>
+        <monto>553.81</monto>
+        <descripcion>Entradas vendidas - Liga Regional</descripcion>
+    </ingreso>
+    <ingreso tipo="Marketplace">
+        <fecha>2023-12-03</fecha>
+        <monto>764.43</monto>
+        <descripcion>Comisión por alquiler de tatami</descripcion>
+    </ingreso>
+    <ingreso tipo="Publicidad">
+        <fecha>2023-06-25</fecha>
+        <monto>972.23</monto>
+        <descripcion>Anuncio destacado - Open Martial Arts</descripcion>
+    </ingreso>
+    <ingreso tipo="Publicidad">
+        <fecha>2023-01-02</fecha>
+        <monto>737.58</monto>
+        <descripcion>Anuncio destacado - Torneo de Verano</descripcion>
+    </ingreso>
+    <ingreso tipo="Suscripción">
+        <fecha>2023-07-17</fecha>
+        <monto>617.10</monto>
+        <descripcion>Suscripción Básica (JiuJitsu Elite)</descripcion>
+    </ingreso>
+    <ingreso tipo="Marketplace">
+        <fecha>2023-11-21</fecha>
+        <monto>612.10</monto>
+        <descripcion>Venta de equipamiento (KarateShop)</descripcion>
+    </ingreso>
+    <ingreso tipo="Ventas">
+        <fecha>2023-05-28</fecha>
+        <monto>734.15</monto>
+        <descripcion>Entradas vendidas - Liga Regional</descripcion>
+    </ingreso>
+    <ingreso tipo="Marketplace">
+        <fecha>2023-11-08</fecha>
+        <monto>478.96</monto>
+        <descripcion>Comisión por alquiler de tatami</descripcion>
+    </ingreso>
+    <ingreso tipo="Ventas">
+        <fecha>2023-11-06</fecha>
+        <monto>566.25</monto>
+        <descripcion>Comisión evento especial - Campeonato Sur</descripcion>
+    </ingreso>
+    <ingreso tipo="Suscripción">
+        <fecha>2023-05-21</fecha>
+        <monto>902.98</monto>
+        <descripcion>Suscripción Premium (Kenpo Masters)</descripcion>
+    </ingreso>
+    <ingreso tipo="Suscripción">
+        <fecha>2023-04-23</fecha>
+        <monto>773.22</monto>
+        <descripcion>Suscripción Premium (Dojo X)</descripcion>
+    </ingreso>
+    <ingreso tipo="Publicidad">
+        <fecha>2023-01-15</fecha>
+        <monto>1364.57</monto>
+        <descripcion>Campaña Facebook - Desafío Samurai</descripcion>
+    </ingreso>
+    <ingreso tipo="Ventas">
+        <fecha>2023-04-30</fecha>
+        <monto>692.49</monto>
+        <descripcion>Comisión por entradas - Campeonato Nacional</descripcion>
+    </ingreso>
+    <ingreso tipo="Marketplace">
+        <fecha>2023-09-25</fecha>
+        <monto>928.66</monto>
+        <descripcion>Comisión por servicio de arbitraje</descripcion>
+    </ingreso>
+    <ingreso tipo="Marketplace">
+        <fecha>2023-12-18</fecha>
+        <monto>580.79</monto>
+        <descripcion>Comisión por alquiler de tatami</descripcion>
+    </ingreso>
+    <ingreso tipo="Suscripción">
+        <fecha>2023-11-26</fecha>
+        <monto>940.98</monto>
+        <descripcion>Suscripción Básica (JiuJitsu Elite)</descripcion>
+    </ingreso>
+    <ingreso tipo="Ventas">
+        <fecha>2023-07-22</fecha>
+        <monto>544.37</monto>
+        <descripcion>Entradas vendidas - Copa Invierno</descripcion>
+    </ingreso>
+    <ingreso tipo="Suscripción">
+        <fecha>2023-05-08</fecha>
+        <monto>1348.95</monto>
+        <descripcion>Suscripción Premium (JiuJitsu Elite)</descripcion>
+    </ingreso>
+    <ingreso tipo="Marketplace">
+        <fecha>2023-12-23</fecha>
+        <monto>271.58</monto>
+        <descripcion>Venta de equipamiento (MartialStore)</descripcion>
+    </ingreso>
+    <ingreso tipo="Publicidad">
+        <fecha>2023-09-07</fecha>
+        <monto>923.34</monto>
+        <descripcion>Campaña Facebook - Campeonato Nacional</descripcion>
+    </ingreso>
+    <ingreso tipo="Publicidad">
+        <fecha>2023-03-01</fecha>
+        <monto>1048.33</monto>
+        <descripcion>Anuncio destacado - Torneo de Verano</descripcion>
+    </ingreso>
+    <ingreso tipo="Publicidad">
+        <fecha>2023-03-05</fecha>
+        <monto>237.55</monto>
+        <descripcion>Anuncio destacado - Campeonato Nacional</descripcion>
+    </ingreso>
+    <ingreso tipo="Publicidad">
+        <fecha>2023-08-30</fecha>
+        <monto>1146.79</monto>
+        <descripcion>Banner destacado - Copa Invierno</descripcion>
+    </ingreso>
+    <ingreso tipo="Publicidad">
+        <fecha>2023-12-09</fecha>
+        <monto>302.90</monto>
+        <descripcion>Anuncio destacado - Festival de Katas</descripcion>
+    </ingreso>
+    <ingreso tipo="Suscripción">
+        <fecha>2023-05-17</fecha>
+        <monto>1391.40</monto>
+        <descripcion>Suscripción Avanzada (Escuela Bushido)</descripcion>
+    </ingreso>
+    <ingreso tipo="Publicidad">
+        <fecha>2023-06-25</fecha>
+        <monto>1334.29</monto>
+        <descripcion>Banner destacado - Torneo Infantil</descripcion>
+    </ingreso>
+    <ingreso tipo="Suscripción">
+        <fecha>2023-09-01</fecha>
+        <monto>1320.54</monto>
+        <descripcion>Suscripción Premium (Kenpo Masters)</descripcion>
+    </ingreso>
+    <ingreso tipo="Suscripción">
+        <fecha>2023-08-26</fecha>
+        <monto>958.14</monto>
+        <descripcion>Suscripción Básica (Kenpo Masters)</descripcion>
+    </ingreso>
+    <ingreso tipo="Publicidad">
+        <fecha>2023-05-24</fecha>
+        <monto>338.73</monto>
+        <descripcion>Anuncio destacado - Campeonato Nacional</descripcion>
+    </ingreso>
+    <ingreso tipo="Ventas">
+        <fecha>2023-04-30</fecha>
+        <monto>359.45</monto>
+        <descripcion>Entradas vendidas - Copa Primavera</descripcion>
+    </ingreso>
+    <ingreso tipo="Marketplace">
+        <fecha>2023-08-01</fecha>
+        <monto>1306.33</monto>
+        <descripcion>Comisión por alquiler de tatami</descripcion>
+    </ingreso>
+    <ingreso tipo="Suscripción">
+        <fecha>2023-10-29</fecha>
+        <monto>1372.11</monto>
+        <descripcion>Suscripción Avanzada (JiuJitsu Elite)</descripcion>
+    </ingreso>
+    <ingreso tipo="Suscripción">
+        <fecha>2023-05-29</fecha>
+        <monto>1325.05</monto>
+        <descripcion>Plan Profesional (Dojo X)</descripcion>
+    </ingreso>
+    <ingreso tipo="Ventas">
+        <fecha>2023-01-26</fecha>
+        <monto>1415.43</monto>
+        <descripcion>Comisión por entradas - Copa Primavera</descripcion>
+    </ingreso>
+    <ingreso tipo="Ventas">
+        <fecha>2023-10-15</fecha>
+        <monto>1050.67</monto>
+        <descripcion>Comisión por entradas - Festival de Katas</descripcion>
+    </ingreso>
+    <ingreso tipo="Marketplace">
+        <fecha>2023-08-26</fecha>
+        <monto>1184.59</monto>
+        <descripcion>Venta de uniformes (DojoPro)</descripcion>
+    </ingreso>
+    <ingreso tipo="Ventas">
+        <fecha>2023-02-12</fecha>
+        <monto>691.76</monto>
+        <descripcion>Comisión evento especial - Copa Primavera</descripcion>
+    </ingreso>
+    <ingreso tipo="Marketplace">
+        <fecha>2023-09-15</fecha>
+        <monto>581.89</monto>
+        <descripcion>Comisión por alquiler de tatami</descripcion>
+    </ingreso>
+    <ingreso tipo="Marketplace">
+        <fecha>2023-06-24</fecha>
+        <monto>458.37</monto>
+        <descripcion>Comisión por alquiler de tatami</descripcion>
+    </ingreso>
+    <ingreso tipo="Publicidad">
+        <fecha>2023-03-31</fecha>
+        <monto>293.13</monto>
+        <descripcion>Banner destacado - Copa Invierno</descripcion>
+    </ingreso>
+    <ingreso tipo="Ventas">
+        <fecha>2023-04-11</fecha>
+        <monto>1465.81</monto>
+        <descripcion>Comisión evento especial - Copa Invierno</descripcion>
+    </ingreso>
+    <ingreso tipo="Suscripción">
+        <fecha>2023-06-08</fecha>
+        <monto>247.79</monto>
+        <descripcion>Suscripción Premium (Escuela Bushido)</descripcion>
+    </ingreso>
+    <ingreso tipo="Publicidad">
+        <fecha>2023-12-22</fecha>
+        <monto>388.53</monto>
+        <descripcion>Banner destacado - Campeonato Sur</descripcion>
+    </ingreso>
+    <ingreso tipo="Suscripción">
+        <fecha>2023-01-15</fecha>
+        <monto>1434.31</monto>
+        <descripcion>Suscripción Básica (Club Karateka)</descripcion>
+    </ingreso>
+    <ingreso tipo="Publicidad">
+        <fecha>2023-12-19</fecha>
+        <monto>212.63</monto>
+        <descripcion>Banner destacado - Open Martial Arts</descripcion>
+    </ingreso>
+    <ingreso tipo="Publicidad">
+        <fecha>2023-07-17</fecha>
+        <monto>1321.43</monto>
+        <descripcion>Campaña Facebook - Copa Primavera</descripcion>
+    </ingreso>
+    <ingreso tipo="Publicidad">
+        <fecha>2023-10-30</fecha>
+        <monto>1028.27</monto>
+        <descripcion>Banner destacado - Campeonato Sur</descripcion>
+    </ingreso>
+    <ingreso tipo="Ventas">
+        <fecha>2023-09-29</fecha>
+        <monto>1234.59</monto>
+        <descripcion>Comisión evento especial - Torneo Infantil</descripcion>
+    </ingreso>
+    <ingreso tipo="Suscripción">
+        <fecha>2023-11-07</fecha>
+        <monto>1008.70</monto>
+        <descripcion>Suscripción Básica (JiuJitsu Elite)</descripcion>
+    </ingreso>
+    <ingreso tipo="Publicidad">
+        <fecha>2023-12-29</fecha>
+        <monto>1457.37</monto>
+        <descripcion>Anuncio destacado - Desafío Samurai</descripcion>
+    </ingreso>
+    <ingreso tipo="Suscripción">
+        <fecha>2023-12-07</fecha>
+        <monto>902.75</monto>
+        <descripcion>Suscripción Premium (Dojo X)</descripcion>
+    </ingreso>
+    <ingreso tipo="Suscripción">
+        <fecha>2023-08-31</fecha>
+        <monto>435.10</monto>
+        <descripcion>Suscripción Premium (Kenpo Masters)</descripcion>
+    </ingreso>
+    <ingreso tipo="Publicidad">
+        <fecha>2023-09-11</fecha>
+        <monto>746.20</monto>
+        <descripcion>Campaña Facebook - Campeonato Sur</descripcion>
+    </ingreso>
+    <ingreso tipo="Marketplace">
+        <fecha>2023-05-21</fecha>
+        <monto>1145.99</monto>
+        <descripcion>Comisión por servicio de arbitraje</descripcion>
+    </ingreso>
+    <ingreso tipo="Publicidad">
+        <fecha>2023-08-08</fecha>
+        <monto>1019.27</monto>
+        <descripcion>Banner destacado - Liga Regional</descripcion>
+    </ingreso>
+    <ingreso tipo="Publicidad">
+        <fecha>2023-09-30</fecha>
+        <monto>932.93</monto>
+        <descripcion>Banner destacado - Torneo Infantil</descripcion>
+    </ingreso>
+    <ingreso tipo="Ventas">
+        <fecha>2023-06-27</fecha>
+        <monto>1150.07</monto>
+        <descripcion>Entradas vendidas - Torneo Infantil</descripcion>
+    </ingreso>
+    <ingreso tipo="Ventas">
+        <fecha>2023-01-08</fecha>
+        <monto>995.34</monto>
+        <descripcion>Comisión por entradas - Copa Invierno</descripcion>
+    </ingreso>
+    <ingreso tipo="Publicidad">
+        <fecha>2023-02-16</fecha>
+        <monto>1156.41</monto>
+        <descripcion>Campaña Facebook - Copa Invierno</descripcion>
+    </ingreso>
+    <ingreso tipo="Marketplace">
+        <fecha>2023-12-07</fecha>
+        <monto>1476.27</monto>
+        <descripcion>Comisión por servicio de arbitraje</descripcion>
+    </ingreso>
+    <ingreso tipo="Marketplace">
+        <fecha>2023-12-24</fecha>
+        <monto>676.75</monto>
+        <descripcion>Comisión por alquiler de tatami</descripcion>
+    </ingreso>
+    <ingreso tipo="Publicidad">
+        <fecha>2023-12-02</fecha>
+        <monto>971.03</monto>
+        <descripcion>Anuncio destacado - Desafío Samurai</descripcion>
+    </ingreso>
+    <ingreso tipo="Publicidad">
+        <fecha>2023-05-26</fecha>
+        <monto>1155.87</monto>
+        <descripcion>Campaña Facebook - Copa Primavera</descripcion>
+    </ingreso>
+    <ingreso tipo="Suscripción">
+        <fecha>2023-07-03</fecha>
+        <monto>1109.33</monto>
+        <descripcion>Suscripción Premium (Escuela Bushido)</descripcion>
+    </ingreso>
+    <ingreso tipo="Suscripción">
+        <fecha>2023-05-04</fecha>
+        <monto>711.57</monto>
+        <descripcion>Suscripción Básica (Kenpo Masters)</descripcion>
+    </ingreso>
+    <ingreso tipo="Ventas">
+        <fecha>2023-03-27</fecha>
+        <monto>266.29</monto>
+        <descripcion>Comisión por entradas - Torneo Infantil</descripcion>
+    </ingreso>
+    <ingreso tipo="Ventas">
+        <fecha>2023-07-02</fecha>
+        <monto>1424.21</monto>
+        <descripcion>Entradas vendidas - Open Martial Arts</descripcion>
+    </ingreso>
+    <ingreso tipo="Suscripción">
+        <fecha>2023-12-21</fecha>
+        <monto>922.85</monto>
+        <descripcion>Suscripción Básica (Dojo X)</descripcion>
+    </ingreso>
+    <ingreso tipo="Marketplace">
+        <fecha>2023-04-10</fecha>
+        <monto>658.02</monto>
+        <descripcion>Comisión por servicio de arbitraje</descripcion>
+    </ingreso>
+    <ingreso tipo="Suscripción">
+        <fecha>2023-06-27</fecha>
+        <monto>628.69</monto>
+        <descripcion>Suscripción Premium (Dojo X)</descripcion>
+    </ingreso>
+    <ingreso tipo="Suscripción">
+        <fecha>2023-12-01</fecha>
+        <monto>559.88</monto>
+        <descripcion>Plan Profesional (Club Karateka)</descripcion>
+    </ingreso>
+    <ingreso tipo="Suscripción">
+        <fecha>2023-12-06</fecha>
+        <monto>514.44</monto>
+        <descripcion>Suscripción Avanzada (Escuela Bushido)</descripcion>
+    </ingreso>
+    <ingreso tipo="Suscripción">
+        <fecha>2023-11-12</fecha>
+        <monto>978.01</monto>
+        <descripcion>Suscripción Premium (JiuJitsu Elite)</descripcion>
+    </ingreso>
+    <ingreso tipo="Marketplace">
+        <fecha>2023-05-15</fecha>
+        <monto>1464.71</monto>
+        <descripcion>Venta de equipamiento (DojoPro)</descripcion>
+    </ingreso>
+    <ingreso tipo="Ventas">
+        <fecha>2023-08-07</fecha>
+        <monto>506.97</monto>
+        <descripcion>Comisión por entradas - Desafío Samurai</descripcion>
+    </ingreso>
+    <ingreso tipo="Ventas">
+        <fecha>2023-12-18</fecha>
+        <monto>1499.07</monto>
+        <descripcion>Entradas vendidas - Liga Regional</descripcion>
+    </ingreso>
+    <ingreso tipo="Publicidad">
+        <fecha>2023-03-19</fecha>
+        <monto>1460.12</monto>
+        <descripcion>Campaña Facebook - Festival de Katas</descripcion>
+    </ingreso>
+    <ingreso tipo="Ventas">
+        <fecha>2023-01-21</fecha>
+        <monto>1401.62</monto>
+        <descripcion>Comisión evento especial - Liga Regional</descripcion>
+    </ingreso>
+    <ingreso tipo="Publicidad">
+        <fecha>2023-08-19</fecha>
+        <monto>742.80</monto>
+        <descripcion>Banner destacado - Copa Invierno</descripcion>
+    </ingreso>
+    <ingreso tipo="Marketplace">
+        <fecha>2023-07-07</fecha>
+        <monto>1109.22</monto>
+        <descripcion>Comisión por alquiler de tatami</descripcion>
+    </ingreso>
+    <ingreso tipo="Publicidad">
+        <fecha>2023-09-27</fecha>
+        <monto>1388.96</monto>
+        <descripcion>Anuncio destacado - Campeonato Nacional</descripcion>
+    </ingreso>
+    <ingreso tipo="Suscripción">
+        <fecha>2023-01-23</fecha>
+        <monto>471.09</monto>
+        <descripcion>Plan Profesional (Dojo X)</descripcion>
+    </ingreso>
+    <ingreso tipo="Marketplace">
+        <fecha>2023-07-21</fecha>
+        <monto>1076.52</monto>
+        <descripcion>Venta de equipamiento (KarateShop)</descripcion>
+    </ingreso>
+    <ingreso tipo="Ventas">
+        <fecha>2023-07-26</fecha>
+        <monto>726.57</monto>
+        <descripcion>Comisión por entradas - Open Martial Arts</descripcion>
+    </ingreso>
+    <ingreso tipo="Marketplace">
+        <fecha>2023-06-17</fecha>
+        <monto>212.53</monto>
+        <descripcion>Venta de uniformes (DojoPro)</descripcion>
+    </ingreso>
+    <ingreso tipo="Marketplace">
+        <fecha>2023-05-01</fecha>
+        <monto>373.62</monto>
+        <descripcion>Venta de uniformes (DojoSport)</descripcion>
+    </ingreso>
+    <ingreso tipo="Ventas">
+        <fecha>2023-09-16</fecha>
+        <monto>1286.23</monto>
+        <descripcion>Comisión por entradas - Campeonato Sur</descripcion>
+    </ingreso>
+    <ingreso tipo="Suscripción">
+        <fecha>2023-10-17</fecha>
+        <monto>437.84</monto>
+        <descripcion>Suscripción Premium (JiuJitsu Elite)</descripcion>
+    </ingreso>
+    <ingreso tipo="Suscripción">
+        <fecha>2023-09-26</fecha>
+        <monto>984.28</monto>
+        <descripcion>Plan Profesional (Kenpo Masters)</descripcion>
+    </ingreso>
+    <ingreso tipo="Publicidad">
+        <fecha>2023-08-20</fecha>
+        <monto>345.43</monto>
+        <descripcion>Banner destacado - Torneo de Verano</descripcion>
+    </ingreso>
+    <ingreso tipo="Publicidad">
+        <fecha>2023-04-07</fecha>
+        <monto>1375.43</monto>
+        <descripcion>Anuncio destacado - Torneo Infantil</descripcion>
+    </ingreso>
+    <ingreso tipo="Publicidad">
+        <fecha>2023-02-07</fecha>
+        <monto>842.55</monto>
+        <descripcion>Anuncio destacado - Copa Primavera</descripcion>
+    </ingreso>
+    <ingreso tipo="Marketplace">
+        <fecha>2023-04-06</fecha>
+        <monto>623.82</monto>
+        <descripcion>Comisión por alquiler de tatami</descripcion>
+    </ingreso>
+    <ingreso tipo="Marketplace">
+        <fecha>2023-03-17</fecha>
+        <monto>1027.74</monto>
+        <descripcion>Comisión por servicio de arbitraje</descripcion>
+    </ingreso>
+    <ingreso tipo="Suscripción">
+        <fecha>2023-10-17</fecha>
+        <monto>340.90</monto>
+        <descripcion>Suscripción Premium (Dojo X)</descripcion>
+    </ingreso>
+    <ingreso tipo="Suscripción">
+        <fecha>2023-03-19</fecha>
+        <monto>680.36</monto>
+        <descripcion>Suscripción Avanzada (Escuela Bushido)</descripcion>
+    </ingreso>
+    <ingreso tipo="Publicidad">
+        <fecha>2023-05-23</fecha>
+        <monto>740.65</monto>
+        <descripcion>Banner destacado - Festival de Katas</descripcion>
+    </ingreso>
+    <ingreso tipo="Ventas">
+        <fecha>2023-03-28</fecha>
+        <monto>289.26</monto>
+        <descripcion>Comisión por entradas - Campeonato Nacional</descripcion>
+    </ingreso>
+    <ingreso tipo="Suscripción">
+        <fecha>2023-09-28</fecha>
+        <monto>900.58</monto>
+        <descripcion>Suscripción Básica (Escuela Bushido)</descripcion>
+    </ingreso>
+    <ingreso tipo="Donaciones">
+        <fecha>2025-05-27</fecha>
+        <monto>500.00</monto>
+        <descripcion>Donación para apoyo a deportistas</descripcion>
+    </ingreso>
+    <ingreso tipo="Donaciones">
+        <fecha>2025-05-28</fecha>
+        <monto>750.00</monto>
+        <descripcion>Donación evento benéfico</descripcion>
+    </ingreso>
+    <ingreso tipo="Merchandising">
+        <fecha>2025-05-25</fecha>
+        <monto>1200.00</monto>
+        <descripcion>Venta de camisetas y posters</descripcion>
+    </ingreso>
+    <ingreso tipo="Merchandising">
+        <fecha>2025-05-26</fecha>
+        <monto>850.00</monto>
+        <descripcion>Venta de gorras y accesorios</descripcion>
+    </ingreso>
+</ingresos>
